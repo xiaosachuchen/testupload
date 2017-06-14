@@ -21,6 +21,7 @@ namespace WebCore
                 .Build();
 
             host.Run();
+            Console.WriteLine("sss");
         }
     }
 }
